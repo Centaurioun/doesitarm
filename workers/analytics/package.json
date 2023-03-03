@@ -16,7 +16,7 @@
     "accept-language-parser": "^1.5.0",
     "query-string": "^6.11.0",
     "universal-analytics": "^0.5.3",
-    "uuid": "^3.4.0"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
