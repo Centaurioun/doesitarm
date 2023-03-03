@@ -21,7 +21,7 @@
   "devDependencies": {
     "dotenv": "^8.2.0",
     "esbuild": "^0.14.18",
-    "prettier": "^1.18.2",
+    "prettier": "^2.8.4",
     "webpack": "4.33.0"
   }
 }
